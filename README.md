@@ -17,3 +17,6 @@ Run Jupyter
 ```python
 jupyter notebook
 ```
+
+
+![image](https://user-images.githubusercontent.com/71048703/200467043-746d064a-bf82-4d52-9410-940431d240b3.png)
